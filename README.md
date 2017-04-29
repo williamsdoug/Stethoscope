@@ -1,12 +1,27 @@
 Stethoscope
 ===========
 
+This project extends the GilaX Stethoscope to be used as electronin stetgoscope.  Design modified to accomodate microphonr and to remove design features related to ear pieces.
+
+Design currently modified to accomodate [CMA-4544PF 20-20K Hz electret condenser microphone](https://cdn-shop.adafruit.com/datasheets/CMA-4544PF-W.pdf) available at Adafruit and other vendors.
+
+Vevised Bill of Materials
+=========================
+
+**Printed parts:**
+* 1 stethoscope head (head_mic.stl)
+* 1 stethoscope diaphram ring
+* 1 stethoscope head cover (to be designed)
+* 1 CMA-4544PF microphone plus woring and jack
+
+
+
+Additional information per GilaX:
+=================================
+
 This project aims to create a research-validated stethoscope whose plans are 
 available freely and openly. The goal is for the bell to cost ~USD$1-2 to produce, 
 and the rest of the stethoscope to cost approximately the same.
-
-Currently, the stethoscope resulting from this project functions as well as the 
-market gold standard, the Littmann Cardiology III.
 
 
 Bill of Materials
